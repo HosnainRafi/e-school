@@ -1,0 +1,37 @@
+.bg-clr{
+    background-color: #F0FFF0;
+    padding-bottom: 60px;
+}
+.sign-in{
+    height: 43px;
+    width: 104px;
+    left: 1201px;
+    top: 25px;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+    background-color: green;
+    color: white; 
+    margin-left: 10px; 
+    border: 1px solid green;
+}
+.nav-item{
+    padding: 5px;
+    margin-right: 10px;
+}
+.nav-ebook{
+    padding-bottom: 80px;
+}
+.c-red{
+    color: red;
+}
+.green{
+    color: #21B573;
+
+}
+<div class="col-md-4">
+<small class="c-red">Are you ready to learn?</small>
+<h1>Learn With fun <br> on <span class="green"> any schedule</span></h1>
+<p>Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit. Varius blandit facilisis quam netus.</p>
+<button type="button" class="sign-in">Get-Started</button>
+
+</div>
